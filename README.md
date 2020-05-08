@@ -47,7 +47,7 @@ Centralised Logging Tool features:
 For more details please refer to the blog post here:
 
 
-**[https://www.myskypelab.com/2013/04/lync-2013-centralised-logging-tool.html](https://www.myskypelab.com/2013/04/lync-2013-centralised-logging-tool.html)**
+**[https://www.myteamslab.com/2013/04/lync-2013-centralised-logging-tool.html](https://www.myteamslab.com/2013/04/lync-2013-centralised-logging-tool.html)**
 
 
  
